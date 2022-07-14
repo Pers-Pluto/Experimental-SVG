@@ -1,0 +1,7 @@
+*.swp
+*.swc
+*.pyc
+docs/build
+build/
+dist/
+src/svgutils.egg-info/

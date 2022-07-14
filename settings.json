@@ -1,0 +1,14 @@
+{
+    "directories" : {
+        "svg_file_component_dir": "SVGs/Inkscape Curvy Knot SVGs Fixed/",
+        "output_alphabet_dir": "SVGs/Alphabet/"
+    },
+
+    "automed_generation_settings": {
+        "automated_generation_type": "Spiral"
+    }
+
+}
+
+
+
